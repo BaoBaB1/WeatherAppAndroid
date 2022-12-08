@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_hint">Enter your city</string>
+    <string name="dash">—</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temperature">Min Temperature</string>
+    <string name="max_temperature">Max Temperature</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
