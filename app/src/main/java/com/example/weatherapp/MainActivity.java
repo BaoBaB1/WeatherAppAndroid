@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public String API_KEY;
+    String API_KEY;
     String city;
     EditText city_input;
     ImageView search_button;
